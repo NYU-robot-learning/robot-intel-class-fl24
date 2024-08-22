@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrobot_intel_fl24=self.webpackChunkrobot_intel_fl24||[]).push([[535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Homework 0","permalink":"/robot-intel-class-fl24/blog/first-assignment"}]}')}}]);
